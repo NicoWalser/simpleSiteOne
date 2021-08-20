@@ -20,7 +20,7 @@ const Styles = styled.div`
 export const NavBar = () => (
   <Styles>
     <Navbar expand='lg'>
-      <Navbar.Brand href='/'>Code Life</Navbar.Brand>
+      <Navbar.Brand href='https://NicoWalser.com'>Branded Name</Navbar.Brand>
       <Navbar.Toggle aria-controls='basic-navbar-mav' />
       <Navbar.Collapse id='basic-navbar-nav'>
         <Nav className='ml-auto'>
